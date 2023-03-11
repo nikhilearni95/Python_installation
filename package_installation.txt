@@ -1,0 +1,18 @@
+#!/bin/bash
+
+sudo apt update -y
+
+apt upgrade -y
+
+python3 -V
+
+sudo apt install -y python3-pip
+
+pip3 install selinium
+
+sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+
+apt install wget unzip -y
+
+
+
