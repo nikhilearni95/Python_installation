@@ -1,0 +1,5 @@
+URL's
+
+https://stackoverflow.com/questions/28973025/what-is-the-path-to-chrome-cache-on-ubuntu
+
+https://askubuntu.com/questions/628460/how-to-delete-temp-files-which-is-created-by-google-chrome-in-linux
